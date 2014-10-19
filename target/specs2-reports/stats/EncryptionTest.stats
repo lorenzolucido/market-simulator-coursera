@@ -1,0 +1,62 @@
+<EncryptionTest-results timestamp="1413624670303"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="125" expectations="1" errors="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413624670319"><stats time="15" expectations="1" errors="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413624713278"><stats time="14" expectations="1" successes="1" examples="1"><trend><stats time="14" errors="-1" successes="1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413646553485"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="234" expectations="1" errors="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413646553491"><stats time="11" expectations="1" errors="1" examples="1"><trend><stats time="11" errors="1" successes="-1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413646714430"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="175" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413646714437"><stats time="12" expectations="1" failures="1" examples="1"><trend><stats time="12" failures="1" errors="-1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413646743959"><stats time="12" expectations="1" successes="1" examples="1"><trend><stats time="12" failures="-1" successes="1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413648363912"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413648571284"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413649776874"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="183" expectations="1" errors="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413649776881"><stats time="12" expectations="1" errors="1" examples="1"><trend><stats time="12" errors="1" successes="-1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413649842577"><stats time="12" expectations="1" successes="1" examples="1"><trend><stats time="12" errors="-1" successes="1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413649967912"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650053076"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650115496"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650258449"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650527739"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650591314"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650659397"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413650786540"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651325818"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413651414409"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="175" expectations="1" errors="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413651414419"><stats time="12" expectations="1" errors="1" examples="1"><trend><stats time="12" errors="1" successes="-1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651428142"><stats time="12" expectations="1" successes="1" examples="1"><trend><stats time="12" errors="-1" successes="1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651497334"><stats time="17" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651591134"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651740924"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413651904795"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652176739"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652196933"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="208" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652196948"><stats time="11" expectations="1" failures="1" examples="1"><trend><stats time="11" failures="1" successes="-1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652309870"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="183" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652309882"><stats time="12" expectations="1" failures="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652350888"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="201" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652350903"><stats time="12" expectations="1" failures="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652411213"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="177" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652411228"><stats time="12" expectations="1" failures="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652428172"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="173" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652428185"><stats time="11" expectations="1" failures="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-results timestamp="1413652463742"><result location="EncryptionTest (EncryptionTest.scala:13)" id="472372302"><stats time="205" expectations="1" failures="1" examples="1"></stats></result>
+</EncryptionTest-results>
+<EncryptionTest-stats timestamp="1413652463755"><stats time="12" expectations="1" failures="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652559017"><stats time="12" expectations="1" successes="1" examples="1"><trend><stats time="12" failures="-1" successes="1"></stats></trend></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652787529"><stats time="13" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652860779"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652916094"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652935333"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413652975610"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413653004784"><stats time="11" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413653027216"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
+<EncryptionTest-stats timestamp="1413653272843"><stats time="12" expectations="1" successes="1" examples="1"></stats></EncryptionTest-stats>
